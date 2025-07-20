@@ -1,3 +1,3 @@
 # myalljavacodes
 in which have my all practies java codes
-umashankar patel
+making all the logics by umashankar patel 
